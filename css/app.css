@@ -1,0 +1,31 @@
+body {
+  margin-top: 50px;
+}
+
+.fig01 {
+  width: 300px;
+}
+
+.fig02 {
+  width: 400px;
+}
+
+.fig03 {
+  width: 600px;
+}
+
+.section-title {
+  font-family: 微软雅黑;
+}
+
+.anchor {
+  display: block;
+  height: 50px;
+  margin-top: 50px;
+  visibility: hidden;
+}
+
+.footer {
+  background: #fafafa;
+  padding-top: 10px;
+}

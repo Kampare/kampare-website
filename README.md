@@ -217,6 +217,8 @@
   - 不同 ***词典***，通过 ***词条*** 的 ID 确定一一对应的关系
 
   > 图 13. 词典录入工具
+  
+![](https://github.com/Kampare/kampare-website/blob/master/images/fig13.png)
 
 ### 2. 词典接入
 
